@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/moviesmart/static/css/main.417530a0.css",
-    "main.js": "/moviesmart/static/js/main.2892c11d.js",
+    "main.js": "/moviesmart/static/js/main.031cfb2f.js",
     "static/media/bgpic1.jpg": "/moviesmart/static/media/bgpic1.64d025c007a0df0d5122.jpg",
     "static/media/404.png": "/moviesmart/static/media/404.3b070df3c173cab5d131.png",
     "static/media/instagram.png": "/moviesmart/static/media/instagram.e719d8b29f452a16302d.png",
@@ -9,10 +9,10 @@
     "static/media/facebook.png": "/moviesmart/static/media/facebook.a5def58db1e9c1b38269.png",
     "index.html": "/moviesmart/index.html",
     "main.417530a0.css.map": "/moviesmart/static/css/main.417530a0.css.map",
-    "main.2892c11d.js.map": "/moviesmart/static/js/main.2892c11d.js.map"
+    "main.031cfb2f.js.map": "/moviesmart/static/js/main.031cfb2f.js.map"
   },
   "entrypoints": [
     "static/css/main.417530a0.css",
-    "static/js/main.2892c11d.js"
+    "static/js/main.031cfb2f.js"
   ]
 }
