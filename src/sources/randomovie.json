@@ -1,0 +1,34 @@
+[
+    {
+        "title":"Spider-Man: Into the Spider-Verse",
+        "type": "Action",
+        "year": 2018,
+        "screentime": "1h 56m",
+        "poster_url":"https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_.jpg",
+        "rating":[4.8]
+    },
+    {
+        "title":"Spider-Man: Across the Spider-Verse",
+        "type": "Action",
+        "year": 2023,
+        "screentime": "2h 16m",
+        "poster_url":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFHMCMi3SM6HVf0M-Ua0zLlXgBvdsyTT8JL47mVS58uxEaEPse",
+        "rating":[4.4]
+    },
+    {
+        "title":"Fast X",
+        "type": "Action",
+        "year": 2023,
+        "screentime": "2h 21m",
+        "poster_url":"https://movies.universalpictures.com/media/fstx-montage1sheet2-rgb-1-64108e93e63dd-1.jpg",
+        "rating":[4.2]
+    },
+    {
+        "title":"Transformers: The Last Knight",
+        "type": "Action",
+        "year": 2017,
+        "screentime": "2h 34m",
+        "poster_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6NX1HzM5IkUhkwR1Yq7vkd9j5dqv0_Zaz5FCa2bzyJaUx9zOa",
+        "rating":[1]
+    }
+]
